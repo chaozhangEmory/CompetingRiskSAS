@@ -1,2 +1,0 @@
-# CompetingRiskSAS
-Competing Risk MACRO
